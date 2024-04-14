@@ -1,0 +1,4 @@
+repository "Little Outer Wilds@Yazzog@cloud"
+  path "/"
+    smartbranch "/main"   
+     
