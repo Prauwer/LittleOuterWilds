@@ -159,7 +159,7 @@ void Update()
             PlaySound(keysPressed);
             PlayParticles();
         }
-		} 
+    } 
 ```
 
 Le déplacement souris est géré de cette manière :
@@ -187,7 +187,7 @@ void Update()
         }
 
         rb.AddRelativeTorque(torque, ForceMode.Force);
-		} 
+    } 
 ```
 
 ### Vaisseau - ShipRotate.cs
